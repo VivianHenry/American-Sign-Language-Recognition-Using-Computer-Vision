@@ -35,7 +35,7 @@ Another library that I will be using for this project is OpenCV. OpenCV, origina
 
 <img width="263" src="https://github.com/VivianHenry/American-Sign-Language-Recognition-Using-Computer-Vision/assets/67223688/66298def-9c73-4b21-a750-ce8eedbdb151">
 
-<img width="263" src="https://github.com/VivianHenry/American-Sign-Language-Recognition-Using-Computer-Vision/assets/67223688/0321ea68-b4d0-44ac-a38a-3fdd8ccfc674">
+<img width="800" src="https://github.com/VivianHenry/American-Sign-Language-Recognition-Using-Computer-Vision/assets/67223688/0321ea68-b4d0-44ac-a38a-3fdd8ccfc674">
 
-<img width="263" src="https://github.com/VivianHenry/American-Sign-Language-Recognition-Using-Computer-Vision/assets/67223688/79482116-6230-4f2a-9ee1-30125d9492c7">
+<img width="800" src="https://github.com/VivianHenry/American-Sign-Language-Recognition-Using-Computer-Vision/assets/67223688/79482116-6230-4f2a-9ee1-30125d9492c7">
 
