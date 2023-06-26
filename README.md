@@ -13,6 +13,6 @@ This is a Python program to interpret American Sign Language gestures, in real t
 
 Since this implementation works on static frames, a drawback and potential area of improvement is the lack of accommodation for gestures with associated motion such as for letters ‘J’ and ‘Z’.
 
-<img width=800 alt=image src="https://github.com/VivianHenry/American-Sign-Language-Recognition-Using-Computer-Vision/assets/67223688/d292d803-93c4-4806-ba5c-eb0c5e7deb6a">
+<img width="800" alt="image" src="https://github.com/VivianHenry/American-Sign-Language-Recognition-Using-Computer-Vision/assets/67223688/d292d803-93c4-4806-ba5c-eb0c5e7deb6a">
 
 
